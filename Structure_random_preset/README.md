@@ -1,7 +1,7 @@
 # USB MIDI Random preset switcher for Erogenous Tones Structure video module
 * Sends a random note to pick a bank (F6 thru G#6 or note# 101 thru 104, channel 1)
-* Sends a note to pick a preset (C#-2 thru E-1 or note# 1 thru 16, channel 1)
-* Waits an amount of time
+* Sends a random note to pick a preset (C#-2 thru E-1 or note# 1 thru 16, channel 1)
+* Waits a defined amount of time
 * Repeats forever
 
 # Setup:
